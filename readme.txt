@@ -3,3 +3,4 @@ random line added
 git is distributed under GPL
 hehehe
 createing a new branch is quick
+new feature 1
